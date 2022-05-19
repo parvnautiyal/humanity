@@ -1,4 +1,4 @@
-# humanity
+# Humanity
 
 This is a website created to generate awareness in people.
 
